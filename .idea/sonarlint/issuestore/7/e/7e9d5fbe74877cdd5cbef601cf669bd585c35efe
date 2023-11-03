@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÚ¶¨8ı‰½ı¸1
+[
+java:S1854">Remove this useless assignment to local variable "commission".(¼Ì´Ó8•Š½ı¸1
+L	java:S106"+Replace this use of System.out by a logger.(…ËÃ™úÿÿÿÿ8Š½ı¸1
+L	java:S106"+Replace this use of System.out by a logger.(§Û–™ûÿÿÿÿ8Š½ı¸1
+L	java:S106"+Replace this use of System.out by a logger.(ÙÎµ›ıÿÿÿÿ8Š½ı¸1
+F	java:S106"+Replace this use of System.out by a logger.(ú“‰8Š½ı¸1
+L	java:S1061"+Replace this use of System.out by a logger.(Ÿºáúÿÿÿÿ8Š½ı¸1
+G	java:S1062"+Replace this use of System.out by a logger.(Æ•—8Š½ı¸1
+L	java:S1063"+Replace this use of System.out by a logger.(á¨ñ¡ùÿÿÿÿ8Š½ı¸1
+G	java:S1064"+Replace this use of System.out by a logger.(«»¥8¡Š½ı¸1
+L	java:S1065"+Replace this use of System.out by a logger.(ÙÉ†»üÿÿÿÿ8¡Š½ı¸1
+G	java:S1066"+Replace this use of System.out by a logger.(—šÈë8¡Š½ı¸1

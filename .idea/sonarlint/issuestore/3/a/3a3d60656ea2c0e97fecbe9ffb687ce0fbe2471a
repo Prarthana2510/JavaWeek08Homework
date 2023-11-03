@@ -1,0 +1,22 @@
+
+”
+java:S1192"rDefine a constant instead of duplicating this literal "Invalid Input. Marks should be between 0 and 100." 3 times.(®±å£ûÿÿÿÿ8ÜÕü¸1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÚ¶¨8ÜÕü¸1
+L	java:S106"+Replace this use of System.out by a logger.(„¡ áùÿÿÿÿ8üÕü¸1
+G	java:S106"+Replace this use of System.out by a logger.(Œé«‚8üÕü¸1
+G	java:S106"+Replace this use of System.out by a logger.(¦£÷8üÕü¸1
+L	java:S106"+Replace this use of System.out by a logger.(®±å£ûÿÿÿÿ8üÕü¸1
+G	java:S106#"+Replace this use of System.out by a logger.(ŸøÂ€8‹ŸÕü¸1
+L	java:S106&"+Replace this use of System.out by a logger.(®±å£ûÿÿÿÿ8‹ŸÕü¸1
+G	java:S106*"+Replace this use of System.out by a logger.(…ªŠ8‹ŸÕü¸1
+L	java:S106-"+Replace this use of System.out by a logger.(®±å£ûÿÿÿÿ8‹ŸÕü¸1
+L	java:S106K"+Replace this use of System.out by a logger.(Ò—´•ùÿÿÿÿ8‹ŸÕü¸1
+L	java:S106L"+Replace this use of System.out by a logger.(ë÷‹Ûÿÿÿÿÿ8‹ŸÕü¸1
+L	java:S106M"+Replace this use of System.out by a logger.(È…’ûÿÿÿÿ8‹ŸÕü¸1
+L	java:S106N"+Replace this use of System.out by a logger.(¥Î„ªúÿÿÿÿ8‹ŸÕü¸1
+L	java:S106O"+Replace this use of System.out by a logger.(íİ·¶şÿÿÿÿ8‹ŸÕü¸1
+F	java:S106P"+Replace this use of System.out by a logger.(“È²8‹ŸÕü¸1
+G	java:S106Q"+Replace this use of System.out by a logger.(Ùï™š8‹ŸÕü¸1
+L	java:S106R"+Replace this use of System.out by a logger.(ô‹Áæÿÿÿÿÿ8‹ŸÕü¸1
+L	java:S106S"+Replace this use of System.out by a logger.(òşÚúøÿÿÿÿ8‹ŸÕü¸1
+G	java:S106T"+Replace this use of System.out by a logger.(»‡”ª8‹ŸÕü¸1
