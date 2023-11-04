@@ -4,9 +4,9 @@ public class Person {
 
     //long question to write here
 
-    private String firstName;
-    private String lastName;
-    private int age;
+    String firstName;
+    String lastName;
+    int age;
 
     // Method to get the first name
     public String getFirstName() {
