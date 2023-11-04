@@ -1,16 +1,11 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÚ¶¨8ñŞÿ¸1
-L	java:S106"+Replace this use of System.out by a logger.(±‘­ úÿÿÿÿ8ÿŞÿ¸1
-L	java:S106"+Replace this use of System.out by a logger.(¸›Çíÿÿÿÿÿ8ÿŞÿ¸1
-L	java:S106"+Replace this use of System.out by a logger.(§ˆşíúÿÿÿÿ8ÿŞÿ¸1
-L	java:S106""+Replace this use of System.out by a logger.(ıñ§ùÿÿÿÿ8ÿŞÿ¸1
-G	java:S106%"+Replace this use of System.out by a logger.(Î›±£8ÿŞÿ¸1
-G	java:S106("+Replace this use of System.out by a logger.(ûÚé8ÿŞÿ¸1
-L	java:S106+"+Replace this use of System.out by a logger.( ıÑ«ıÿÿÿÿ8ÿŞÿ¸1
-L	java:S106."+Replace this use of System.out by a logger.(¸›Çíÿÿÿÿÿ8ÿŞÿ¸1
-L	java:S1061"+Replace this use of System.out by a logger.(§ˆşíúÿÿÿÿ8´Ô­ÿ¸1
-L	java:S1064"+Replace this use of System.out by a logger.(ıñ§ùÿÿÿÿ8´Ô­ÿ¸1
-G	java:S1067"+Replace this use of System.out by a logger.(Î›±£8´Ô­ÿ¸1
-G	java:S106:"+Replace this use of System.out by a logger.(ûÚé8´Ô­ÿ¸1
-L	java:S106="+Replace this use of System.out by a logger.( ıÑ«ıÿÿÿÿ8´Ô­ÿ¸1
-L	java:S106@"+Replace this use of System.out by a logger.(¯î±şÿÿÿÿ8´Ô­ÿ¸1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÚ¶¨8áÃ¨¡¹1
+L	java:S106"+Replace this use of System.out by a logger.(±‘­ úÿÿÿÿ8ûÃ¨¡¹1
+L	java:S106"+Replace this use of System.out by a logger.(¸›Çíÿÿÿÿÿ8üÃ¨¡¹1
+L	java:S106 "+Replace this use of System.out by a logger.(§ˆşíúÿÿÿÿ8şÃ¨¡¹1
+L	java:S106#"+Replace this use of System.out by a logger.(ıñ§ùÿÿÿÿ8şÃ¨¡¹1
+G	java:S106&"+Replace this use of System.out by a logger.(Î›±£8şÃ¨¡¹1
+G	java:S106)"+Replace this use of System.out by a logger.(ûÚé8şÃ¨¡¹1
+L	java:S106,"+Replace this use of System.out by a logger.( ıÑ«ıÿÿÿÿ8şÃ¨¡¹1
+]	java:S125/"<This block of commented-out lines of code should be removed.(¸›Çíÿÿÿÿÿ8şÃ¨¡¹1
+L	java:S106A"+Replace this use of System.out by a logger.(¯î±şÿÿÿÿ8şÃ¨¡¹1

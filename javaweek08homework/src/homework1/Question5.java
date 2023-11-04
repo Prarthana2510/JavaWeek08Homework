@@ -72,16 +72,22 @@ If he is pass or fail on basis of percentage (pass>=35) and also give them grade
         }
 
         // Print the mark sheet
-        System.out.println("----- Mark Sheet -----");
-        System.out.println("Name: " + name);
-        System.out.println("Roll No: " + rollNo);
-        System.out.println("Math Marks: " + mathMarks);
-        System.out.println("Science Marks: " + scienceMarks);
-        System.out.println("English Marks: " + englishMarks);
-        System.out.println("Total Marks: " + totalMarks);
-        System.out.println("Percentage: " + percentage + "%");
-        System.out.println("Result: " + result);
-        System.out.println("Grade: " + grade);
+        System.out.println("|______________________________________|  ");
+        System.out.println("|             Mark Sheet               |  ");
+        System.out.println("|    Name:               "+name+"                 |");
+        System.out.println("|    Roll No:             "+rollNo+"            |");
+        System.out.println("|                                      |");
+        System.out.println("|______________________________________|");
+        System.out.println("|    Subjects              Marks       |");
+        System.out.println("|Math            :   " + mathMarks +"                  |");
+        System.out.println("|Science         :   " + scienceMarks+"                |");
+        System.out.println("|English         :   " + englishMarks+"                 |");
+        System.out.println("|______________________________________|");
+        System.out.println("|Total           :     " + totalMarks+"         |");
+        System.out.println("|______________________________________|");
+        System.out.println("|Percentage:        " + percentage +"                  |");
+        System.out.println("|Result:            " + result +"                   |");
+        System.out.println("|Grade:             " + grade + "                   |");
 
         scanner.close();
     }
